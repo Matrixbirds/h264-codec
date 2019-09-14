@@ -1,0 +1,8 @@
+.vagrant
+*.log
+*.zip
+*.cmake
+CMakeCache.txt
+Makefile
+*.codec
+CMakeFiles
